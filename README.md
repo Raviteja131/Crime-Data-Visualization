@@ -18,6 +18,7 @@ Crime Rate by District:
 The overall crime rates are plotted by district to give a sense of where crimes are concentrated within the city.
 Crime Rate Trend Over the Years:
 
+
 A line plot shows the overall trend in crime rates over multiple years. This visual highlights whether crime rates are increasing or decreasing over time.
 Crime Rate by Month:
 
@@ -25,6 +26,7 @@ A bar plot visualizes the monthly crime frequency to uncover seasonal variations
 Shooting Trends:
 
 A specific analysis is done for incidents involving shootings. The number of shooting incidents per year is plotted, revealing trends in gun-related crimes over time.
+
 Data Source:
 The project works with a dataset containing various attributes related to criminal activities such as offense type, time, location (district), day of the week, month, year, and whether shootings were involved.
 
