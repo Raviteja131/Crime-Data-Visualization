@@ -32,6 +32,6 @@ The project works with a dataset containing various attributes related to crimin
 
 Tools Used:
 Pandas for data manipulation.
-Seaborn and Matplotlib for creating visualizations and plots.
+Seaborn and Matplotlib for creating visualizations and plots.     
 Pivot tables for reshaping the data in preparation for heatmaps.
 This project provides insightful visualizations that can aid law enforcement agencies, city planners, and researchers in understanding crime patterns and identifying areas for intervention and policy formulation.
