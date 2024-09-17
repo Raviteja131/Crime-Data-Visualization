@@ -20,7 +20,7 @@ Crime Rate Trend Over the Years:
 
 
 A line plot shows the overall trend in crime rates over multiple years. This visual highlights whether crime rates are increasing or decreasing over time.
-Crime Rate by Month:
+Crime Rate by Month
 
 A bar plot visualizes the monthly crime frequency to uncover seasonal variations in crime activity.
 Shooting Trends:
